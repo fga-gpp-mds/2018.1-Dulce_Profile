@@ -15,9 +15,9 @@ Para contribuir com o projeto é muito fácil e cada pouquinho conta! Basta segu
 
 As *issues* devem possuir título, descrição, no mínimo um assinante responsável, *labels*,  *milestone*(a *sprint* que deve ser concluída) e *estimated*(puntuação) para as *issues* pontuadas.
 
-As Labels usadas no projeto estão descritas no tópico [Labels](https://github.com/fga-gpp-mds/2018.1-Dulce_API/labels) no Github.
+As Labels usadas no projeto estão descritas no tópico [Labels](https://github.com/fga-gpp-mds/2018.1-Dulce_Profile/labels) no Github.
 
-Para criação de issue o [template Issue](docs/issue_template.md) deve ser seguido.
+Para criação de issue o [template Issue](Docs/issue_template.md) deve ser seguido.
 
 ### Política de Branches  
 
@@ -65,9 +65,9 @@ Para contribuir com o projeto é muito fácil e cada pouquinho conta! Basta segu
 
 As *issues* devem possuir título, descrição, no mínimo um assinante responsável, *labels*,  *milestone*(a *sprint* que deve ser concluída) e *estimated*(puntuação) para as *issues* pontuadas.
 
-As Labels usadas no projeto estão descritas no tópico [Labels](https://github.com/fga-gpp-mds/2018.1-Dulce_API/labels) no Github.
+As Labels usadas no projeto estão descritas no tópico [Labels](https://github.com/fga-gpp-mds/2018.1-Dulce_Profile/labels) no Github.
 
-Para criação de issue o [template Issue](docs/issue_template.md) deve ser seguido.
+Para criação de issue o [template Issue](Docs/issue_template.md) deve ser seguido.
 
 ### Política de Branches  
 
@@ -145,7 +145,7 @@ HOTFIX #42 Atualizando guia de contribuição do projeto
 
 Pull requests devem ser feitos para a branch *master* seguindo as regras e os passos do tópico [*Merges para master*](CONTRIBUTING.md#merges-para-master). No conteúdo do pull request deve haver uma descrição clara do que foi feito.
 
-Deve ser seguido o [template Pull Request](docs/pull_request_template.md).
+Deve ser seguido o [template Pull Request](Docs/pull_request_template.md).
 
 ##### Work in Progress
 
@@ -172,7 +172,7 @@ Após pelo menos uma aprovação de Code Review, Status Check (Travis, CodeClima
 
 Para aceitar o PullRequest, deve-se usar a opção *merge* no Github.
 
-![Merge](/docs/img/merges.png)
+![Merge](/Docs/img/merges.png)
  em dupla deve ser usado o comando `-s` , e deve ser adicionado a assinatura da sua dupla.
 
 ```
@@ -220,7 +220,7 @@ HOTFIX #42 Atualizando guia de contribuição do projeto
 
 Pull requests devem ser feitos para a branch *master* seguindo as regras e os passos do tópico [*Merges para master*](CONTRIBUTING.md#merges-para-master). No conteúdo do pull request deve haver uma descrição clara do que foi feito.
 
-Deve ser seguido o [template Pull Request](docs/pull_request_template.md).
+Deve ser seguido o [template Pull Request](Docs/pull_request_template.md).
 
 ##### Work in Progress
 
@@ -247,4 +247,4 @@ Após pelo menos uma aprovação de Code Review, Status Check (Travis, CodeClima
 
 Para aceitar o PullRequest, deve-se usar a opção *merge* no Github.
 
-![Merge](/docs/img/merges.png)
+![Merge](/Docs/img/merges.png)
